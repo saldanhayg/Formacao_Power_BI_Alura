@@ -18,9 +18,9 @@
 ✔️ **Tabelas**<br>
 ✔️ **Séries temporais**<br>
 ✔️ **Categorias e localização**<br>
-✔️ **Construindo o Dashboard***<br>
+✔️ **Construindo o Dashboard**<br>
 
-<1>
+<h1>
    <img src="" alt="" border="0">
 </h1>
 <br>
