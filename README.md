@@ -11,7 +11,7 @@ A Formação Power BI da Alura é um guia de estudos com o passo a passo necess�
 ✅ **<a href="https://tinyurl.com/tm45fmpd">Power BI Desktop: Construindo meu primeiro dashboard</a>** <br>
 ✅ **<a href="https://tinyurl.com/4z938v7z">Power BI Desktop: Tratamento de dados no Power Query</a>** <br>
 ✅ **<a href="https://tinyurl.com/h9htfx9j">Power BI: Entendendo as fórmulas DAX</a>** <br>
-✅ **<a href=" ">Dashboard com Power BI: Visualizando dados</a>** <br>
+✅ **<a href="https://tinyurl.com/2mj3bjnp">Dashboard com Power BI: Visualizando dados</a>** <br>
 ✅ **<a href="https://tinyurl.com/s82nrwt5">Power BI: Explorando recursos visuais</a>** <br>
 <br>
 

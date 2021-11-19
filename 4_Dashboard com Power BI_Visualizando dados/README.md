@@ -1,7 +1,7 @@
 # Dashboard com Power BI: Visualizando dados
 
 <h1>
-   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/POWER%20BI/POWER%20BI%20DESKTOP%20-%20CONSTRUINDO%20MEU%20PRIMEIRO%20DASHBOARD.JPG" alt="POWER-BI-DESKTOP" border="0">
+
 </h1>
 <br>
 
