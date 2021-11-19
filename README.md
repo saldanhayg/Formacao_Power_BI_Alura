@@ -1,4 +1,4 @@
-# Formacao_Power_BI_Alura
+# Formação Power BI 
 
 A Formação Power BI da Alura é um guia de estudos com o passo a passo necessário para formar profissionais de ponta.
 
@@ -38,13 +38,13 @@ A Formação Power BI da Alura é um guia de estudos com o passo a passo necess�
 
 #### Dashboard com Power BI: Visualizando dados
 <h1>
-   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/5_Power%20BI%20Desktop_Explorando%20recursos%20visuais/img/Dash.PNG" alt="Power BI" border="0">
+
 </h1>
 <br>
 
 #### Power BI: Explorando recursos visuais
 <h1>
-   <img src=" " alt="Power BI" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/5_Power%20BI%20Desktop_Explorando%20recursos%20visuais/img/Dash.PNG" alt="Power BI" border="0">
 </h1>
 <br>
 
