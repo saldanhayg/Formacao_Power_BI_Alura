@@ -3,7 +3,7 @@
 A Formação Power BI da Alura é um guia de estudos com o passo a passo necessário para formar profissionais de ponta.
 
 <h1>
-   <img src=" " alt="Power BI" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/PowerBI.jpg" alt="Power BI" border="0">
 </h1>
 <br>
 
@@ -17,32 +17,33 @@ A Formação Power BI da Alura é um guia de estudos com o passo a passo necess�
 
 ## Dashboards 
 
+#### Power BI Desktop: Construindo meu primeiro dashboard
+
 <h1>
-    Power BI Desktop: Construindo meu primeiro dashboard<br>
    <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/1_Power%20BI%20Desktop_Construindo%20meu%20primeiro%20dashboard/img/dashboard.JPG" alt="Power BI" border="0">
 </h1>
 <br>
 
+#### Power BI Desktop: Tratamento de dados no Power Query
 <h1>
-    Power BI Desktop: Tratamento de dados no Power Query<br>
    <img src="https://camo.githubusercontent.com/0ff1d0041ded7872253c4b9fdb54e53540b5343f77913763f9cabf8861c725df/68747470733a2f2f692e6962622e636f2f6b6d52366b446e2f646173682e706e67" alt="Power BI" border="0">
 </h1>
 <br>
 
+#### Power BI: Entendendo as fórmulas DAX
 <h1>
-    Power BI: Entendendo as fórmulas DAX<br>
-   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/3_Power%20BI%20Desktop_Entendendo%20as%20f%C3%B3rmulas%20DAX/DASH_POWER_BI_ENTENDENDO%20AS%20F%C3%93RMULAS%20DAX.PNG" alt="Power BI" border="0">
+    <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/3_Power%20BI%20Desktop_Entendendo%20as%20f%C3%B3rmulas%20DAX/DASH_POWER_BI_ENTENDENDO%20AS%20F%C3%93RMULAS%20DAX.PNG" alt="Power BI" border="0">
 </h1>
 <br>
 
+#### Dashboard com Power BI: Visualizando dados
 <h1>
-    Dashboard com Power BI: Visualizando dados<br>
-   <img src=" " alt="Power BI" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/5_Power%20BI%20Desktop_Explorando%20recursos%20visuais/img/Dash.PNG" alt="Power BI" border="0">
 </h1>
 <br>
 
+#### Power BI: Explorando recursos visuais
 <h1>
-    Power BI: Explorando recursos visuais<br>
    <img src=" " alt="Power BI" border="0">
 </h1>
 <br>
