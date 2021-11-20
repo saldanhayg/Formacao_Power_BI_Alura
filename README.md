@@ -3,7 +3,7 @@
 A Formação Power BI da Alura é um guia de estudos com o passo a passo necessário para formar profissionais de ponta.
 
 <h1>
-   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/PowerBI.jpg" alt="Power BI" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/FORMA%C3%87%C3%95ES/BI/POWER%20BI.JPG" alt="Power BI" border="0">
 </h1>
 <br>
 

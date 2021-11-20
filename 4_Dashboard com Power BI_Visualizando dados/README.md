@@ -1,7 +1,7 @@
 # Dashboard com Power BI: Visualizando dados
 
 <h1>
-
+   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/POWER%20BI/DASHBOARD%20COM%20POWER%20BI%20-%20VISUALIZANDO%20DADOS.JPG" alt="" border="0">
 </h1>
 <br>
 
@@ -21,7 +21,7 @@
 ✔️ **Construindo o Dashboard**<br>
 
 <h1>
-   <img src="" alt="" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/POWER%20BI/DASHBOARD%20COM%20POWER%20BI%20-%20VISUALIZANDO%20DADOS.JPG" alt="" border="0">
 </h1>
 <br>
 ### Tecnologia utilizadas 🚀:
