@@ -21,7 +21,7 @@
 ✔️ **Construindo o Dashboard**<br>
 
 <h1>
-   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/POWER%20BI/DASHBOARD%20COM%20POWER%20BI%20-%20VISUALIZANDO%20DADOS.JPG" alt="" border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Formacao_Power_BI_Alura/main/4_Dashboard%20com%20Power%20BI_Visualizando%20dados/img/Dashboard%20com%20Power%20BI_Visualizando%20dados.JPG" alt="" border="0">
 </h1>
 <br>
 ### Tecnologia utilizadas 🚀:
