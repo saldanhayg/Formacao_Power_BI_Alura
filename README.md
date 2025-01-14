@@ -50,7 +50,7 @@ A Formação Power BI da Alura é um guia de estudos com o passo a passo necess�
 
 ## Me siga nas redes sociais
 
-👨‍💼🔮  https://linktr.ee/ygtecnologia 
+👨‍💼🔮  [https://bio.site/heliosaldanha]
 <br>
 <br> 
 <br> 
